@@ -4,7 +4,7 @@ disqusShortname = "NMSTECH"
 paginate = "6"
 summaryLength = "10"
 theme = "NMSTECH"
-title = "NMS | New Minds school"
+title = "NMS | New Minds School"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
