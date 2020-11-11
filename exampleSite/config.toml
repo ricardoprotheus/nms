@@ -1,10 +1,10 @@
 baseURL = "http://examplesite.org"
 disableLanguages = ["fr"]
-disqusShortname = "educenter"
+disqusShortname = "NMSTECH"
 paginate = "6"
 summaryLength = "10"
-theme = "educenter-hugo"
-title = "Educenter | hugo education template"
+theme = "NMSTECH"
+title = "NMS | New Minds school"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
@@ -81,7 +81,7 @@ contact_form_action = "#"
 description = "This is meta description"
 email = "info@educenter.com"
 google_analitycs_id = ""
-logo = "images/logo.png"
+logo = "/images/logo_nms_new_transparent.png"
 mobile = "+211234565523"
 top_header = true
 [params.cookies]
