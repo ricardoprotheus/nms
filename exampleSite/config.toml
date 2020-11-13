@@ -75,14 +75,14 @@ URL = "contact"
 name = "Contact"
 weight = 5
 [params]
-address = "9567 Turner Trace Apt. BC C3G8A4"
-author = "Themefisher"
+address = "R. mar das Filipinas"
+author = "Ricardo"
 contact_form_action = "#"
-description = "This is meta description"
-email = "info@educenter.com"
+description = "Seu futuro é a nossa missão"
+email = "alanzk58@gmail.com"
 google_analitycs_id = ""
 logo = "/images/logo_nms_new_transparent.png"
-mobile = "+211234565523"
+mobile = "+5511972645965"
 top_header = true
 [params.cookies]
 enable = true
