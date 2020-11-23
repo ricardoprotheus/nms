@@ -7,10 +7,10 @@ theme = "NMSTECH"
 title = "NMS | New Minds School"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
-home = "Home"
-languageCode = "en-us"
-languageName = "En"
+copyright = "Copyright &copy; 2020 NMS | New Minds School "
+home = "Inicio"
+languageCode = "pt-br"
+languageName = "Pt"
 weight = 1
 [Languages.fr]
 contentDir = "content/french"
