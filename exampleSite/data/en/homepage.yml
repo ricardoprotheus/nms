@@ -69,15 +69,13 @@ banner_feature:
       no Brasil, America Latina\ne Europa."
 about:
   enable: true
-  title: About Educenter
+  title: Sobre Educenter
   image: images/about/about-us.jpg
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat  pariatur. Excepteur sint occaecat\n\ncupidatat non proident, sunt in culpa
-    qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis
-    iste natus error sit voluptatem "
+  content: "Somos uma Startup de treinamentos e consultoria Full Stack na Stack ERP
+    TOTVS Protheus,\nem ambientes Windows e Linux, utilizando as linguagens AdvPL,
+    TL++, HTML, CSS, JavaScript, \nJSON, NodeJS, ReactJS e React Native.\n\nComo uma
+    comunidade onde aprendemos e trocamos conhecimentos e experiência na Stack ERP
+    TOTVS Protheus."
   button:
     enable: true
     label: Learn more
