@@ -50,10 +50,12 @@ banner_feature:
     content: "Nosso programa de Bolsas de Estudos, contemplam pessoas comprovadamente
       de baixa renda, moradores de favela e periferias e \npessoas trans, entre em
       contato para conhecer nosso programa de Bolsas de Estudos."
-  - name: Our Notice Board
+  - name: Nosso Quadro de Avisos
     icon: ti-blackboard
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
+    content: "De 02-06 de Novembro\nStartNew com ERP Protheus curso online e gratuito\nAprenda
+      a Instalar e Configurar o ERP TOTVS Protheus de forma simples e clara no \nseu
+      computador pessoal, para conhecer, treinar e aprender com esta grande ferramente
+      \nde Gestão Empresarial."
   - name: Our Achievements
     icon: ti-agenda
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
