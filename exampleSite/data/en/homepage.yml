@@ -56,14 +56,17 @@ banner_feature:
       a Instalar e Configurar o ERP TOTVS Protheus de forma simples e clara no \nseu
       computador pessoal, para conhecer, treinar e aprender com esta grande ferramente
       \nde Gestão Empresarial."
-  - name: Our Achievements
+  - name: Nossas Conquistas
     icon: ti-agenda
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
-  - name: Admission Now
+    content: |-
+      Lançamento do treinamento StartNew com ERP Protheus curso online e gratuito.
+      Nosso aluno Alan Bonfim, agora faz parte de nossa equipe na New Minds Lab, seja muito bem-vindo em nossa família !
+  - name: Admissão Agora
     icon: ti-write
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
+    content: "Matricule-se em nossa Mentoria paga StartNew com ERP Protheus em AdvPL,
+      onde você vai aprender tudo o que você precisa para \nengreçar no mercado de
+      trabalho, que mais tem vagas, que mais contrata e que mais tem oportunidades
+      no Brasil, America Latina\ne Europa."
 about:
   enable: true
   title: About Educenter
