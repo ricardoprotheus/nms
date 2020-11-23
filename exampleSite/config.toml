@@ -40,45 +40,45 @@ URL = "research"
 name = "Pesquisa"
 weight = 1
 [[menu.main]]
-URL = "notice"
-name = "notice"
-parent = "pages"
-weight = 3
-[[menu.main]]
 URL = "course"
-name = "curse"
+name = "course"
 weight = 2
 [[menu.main]]
+URL = "notice"
+name = "notice"
+parent = "page"
+weight = 3
+[[menu.main]]
 URL = "contact"
-name = "Contact"
+name = "contact"
 weight = 5
 [[menu.main]]
 URL = "blog"
-name = "Blog"
+name = "blog"
 weight = 4
 [[menu.main]]
 URL = "scholarship"
 name = "scholarship"
-parent = "pages"
+parent = "page"
 weight = 5
 [[menu.main]]
 URL = "event"
 name = "event"
-parent = "pages"
+parent = "page"
 weight = 4
 [[menu.main]]
 URL = "teacher"
 name = "teacher"
-parent = "pages"
+parent = "page"
 weight = 2
 [[menu.main]]
 URL = "research"
 name = "scholarship"
-parent = "pages"
+parent = "page"
 weight = 1
 [[menu.main]]
 hasChildren = true
-name = "pages"
+name = "page"
 weight = 3
 [[menu.main]]
 URL = "about"
