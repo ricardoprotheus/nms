@@ -20,24 +20,24 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.footer]]
+URL = "scholarship"
+name = "Bolsa de Estudos"
+weight = 2
+[[menu.footer]]
 URL = "teacher"
-name = "teacher"
+name = "Professor"
 weight = 5
 [[menu.footer]]
 URL = "notice"
-name = "notice"
+name = "Notícias"
 weight = 4
 [[menu.footer]]
 URL = "event"
-name = "event"
+name = "Eventos"
 weight = 3
 [[menu.footer]]
-URL = "scholarship"
-name = "scholarship"
-weight = 2
-[[menu.footer]]
 URL = "research"
-name = "research"
+name = "Pesquisa"
 weight = 1
 [[menu.main]]
 URL = "contact"
