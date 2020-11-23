@@ -82,7 +82,7 @@ name = "page"
 weight = 3
 [[menu.main]]
 URL = "about"
-name = "about"
+name = "About"
 weight = 1
 [params]
 address = "R. Orense (Prq Jabotiqueiras) Nº 41 Sala 1412 - Centro - Diadema - 09920-650"
