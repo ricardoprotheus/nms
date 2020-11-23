@@ -20,79 +20,69 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.footer]]
-URL = "scholarship"
-name = "Bolsa de Estudos"
-weight = 2
-[[menu.footer]]
 URL = "teacher"
-name = "Professor"
-weight = 5
+name = "teacher"
 [[menu.footer]]
 URL = "notice"
-name = "Notícias"
-weight = 4
+name = "notice"
 [[menu.footer]]
 URL = "event"
-name = "Eventos"
-weight = 3
+name = "event"
+[[menu.footer]]
+URL = "scholarship"
+name = "scholarship"
 [[menu.footer]]
 URL = "research"
-name = "Pesquisa"
+name = "research"
+[[menu.main]]
+URL = "about"
+name = "About"
 weight = 1
 [[menu.main]]
-URL = "contact"
-name = "Contato"
-weight = 5
+URL = "course"
+name = "course"
+weight = 2
 [[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 4
-[[menu.main]]
-URL = "scholarship"
-name = "Bolsa de Estudos"
-parent = "Páginas"
-weight = 5
-[[menu.main]]
-URL = "event"
-name = "Eventos"
-parent = "Páginas"
-weight = 4
-[[menu.main]]
-URL = "notice"
-name = "Notícia"
-parent = "Páginas"
+hasChildren = true
+name = "Pages"
 weight = 3
 [[menu.main]]
 URL = "teacher"
 name = "teacher"
-parent = "Páginas"
-weight = 2
+parent = "Pages"
+[[menu.main]]
+URL = "notice"
+name = "notice"
+parent = "Pages"
+[[menu.main]]
+URL = "event"
+name = "event"
+parent = "Pages"
+[[menu.main]]
+URL = "scholarship"
+name = "scholarship"
+parent = "Pages"
 [[menu.main]]
 URL = "research"
-name = "Pesquisa"
-parent = "Páginas"
-weight = 1
+name = "research"
+parent = "Pages"
 [[menu.main]]
-hasChildren = true
-name = "Páginas"
-weight = 3
+URL = "blog"
+name = "blog"
+weight = 4
 [[menu.main]]
-URL = "course"
-name = "Curso"
-weight = 2
-[[menu.main]]
-URL = "about"
-name = "Sobre"
-weight = 1
+URL = "contact"
+name = "Contact"
+weight = 5
 [params]
-address = "R. mar das Filipinas"
-author = "Ricardo"
+address = "R. Orense (Prq Jabotiqueiras) Nº 41 Sala 1412 - Centro - Diadema - 09920-650"
+author = "New Minds School and Consult"
 contact_form_action = "#"
 description = "Seu futuro é a nossa missão"
-email = "alanzk58@gmail.com"
+email = "oi@nmstech.com.br"
 google_analitycs_id = ""
 logo = "/images/logo_nms_new_transparent.png"
-mobile = "+5511972645965"
+mobile = "+5511982100339"
 top_header = true
 [params.cookies]
 enable = true
