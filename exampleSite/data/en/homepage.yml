@@ -3,15 +3,20 @@ slider:
   enable: true
   bg_image: images/banner/banner-1.jpg
   slider_item:
-  - title: Your bright future is our mission
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud
-      exer
+  - title: Seu futuro brilhante é nossa missão
+    content: "O mercado de trabalho tem uma grande demanda reprimida por profissionais
+      qualificados e preparados, para ajudarem\nas empresas a cumprirem sua missão
+      de atender a necessidade de seus clientes, porém as pessoas que entenderam a
+      \nnecessidade de investir em treinamentos e formação, encontram algumas dificuldades
+      como encontrar um treinamento que\ncubra de maneira clara e objetiva os assuntos
+      propostos, profissionais com formação, qualificação, conhecimento, \nexperiência
+      e comprometimento, desejo e boa vontade em ensinar e transferir conhecimentos
+      teoricos e práticos !"
     animation_in: left
     animation_out: right
     button:
       enable: true
-      label: Apply now
+      label: Clique Agora
       link: contact
   - title: Your bright future is our mission
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
